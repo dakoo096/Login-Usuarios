@@ -44,7 +44,6 @@ Este proyecto,realizado en el curso de Programacion Orientada a Objetos en Java 
   - **logica**: Contiene las clases con la lógica de negocio.
   - **persistencia**: Contiene las clases para el manejo de la persistencia de datos.
 
-![login1](https://github.com/user-attachments/assets/def70e7d-e659-4e73-9884-b9a760cbc748)
 ![login2](https://github.com/user-attachments/assets/562d9f7b-235a-45c9-bd7d-fa409731f200)
 ![login3](https://github.com/user-attachments/assets/4185f64f-17ca-4e85-8a73-9f274e0a6839)
 ![login4](https://github.com/user-attachments/assets/7370f5cc-beae-4992-8635-2efd497bf29c)
